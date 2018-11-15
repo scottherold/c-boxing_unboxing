@@ -1,0 +1,11 @@
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\boxingUnboxing\boxingUnboxing\bin\Debug\netcoreapp2.1\boxingUnboxing.deps.json
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\boxingUnboxing\boxingUnboxing\bin\Debug\netcoreapp2.1\boxingUnboxing.runtimeconfig.json
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\boxingUnboxing\boxingUnboxing\bin\Debug\netcoreapp2.1\boxingUnboxing.runtimeconfig.dev.json
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\boxingUnboxing\boxingUnboxing\bin\Debug\netcoreapp2.1\boxingUnboxing.dll
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\boxingUnboxing\boxingUnboxing\bin\Debug\netcoreapp2.1\boxingUnboxing.pdb
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\boxingUnboxing\boxingUnboxing\obj\Debug\netcoreapp2.1\boxingUnboxing.csprojAssemblyReference.cache
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\boxingUnboxing\boxingUnboxing\obj\Debug\netcoreapp2.1\boxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\boxingUnboxing\boxingUnboxing\obj\Debug\netcoreapp2.1\boxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\boxingUnboxing\boxingUnboxing\obj\Debug\netcoreapp2.1\boxingUnboxing.AssemblyInfo.cs
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\boxingUnboxing\boxingUnboxing\obj\Debug\netcoreapp2.1\boxingUnboxing.dll
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\boxingUnboxing\boxingUnboxing\obj\Debug\netcoreapp2.1\boxingUnboxing.pdb
